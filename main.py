@@ -84,8 +84,8 @@ for n in range(numberOfTimeSteps):
     # TODO
 
     # PEC
-    eNew[ 0] = 0.0;
-    eNew[-1] = 0.0;
+    #eNew[ 0] = 0.0;
+    #eNew[-1] = 0.0;
     
     # PMC
     # TODO
